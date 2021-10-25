@@ -1,0 +1,24 @@
+header {
+    background-color: #A45D5D;
+    color: #EFEFEF;
+}
+
+body {
+    background-color: #EFEFEF;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
